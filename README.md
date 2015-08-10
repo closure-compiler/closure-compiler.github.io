@@ -1,1 +1,1 @@
-# closure-compiler.github.io
+# https://github.com/google/closure-compiler
